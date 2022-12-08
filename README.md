@@ -1,1 +1,1 @@
-Main profile -> [github](https://github.com/doreshev)
+Main git profile -> [doreshev](https://github.com/doreshev)
